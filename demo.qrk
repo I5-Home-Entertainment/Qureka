@@ -1,0 +1,9 @@
+SET name "Qureka"
+PRINT name
+
+INPUT ans
+IF ans == yes
+GOTO end
+ENDIF
+LABEL end
+HALT
